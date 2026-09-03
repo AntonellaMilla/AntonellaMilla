@@ -25,8 +25,8 @@ const antonella = {
   herramientas: [React, Node.js, Django, Prisma, Git, Figma],
   baseDeDatos: ["PostgreSQL"],
   intereses: ["Desarrollo Web", "AWS", "IA"],
-  aprendiendo: ["Full Stack", "Cloud"],
-  objetivo: "Seguir aprendiendo y convertir ideas en soluciones 🚀"
+  aprendiendo: ["Cloud"],
+  objetivo: "Seguir aprendiendo y convertir ideas en soluciones "
 };
 ```
 
