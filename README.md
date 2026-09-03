@@ -1,12 +1,20 @@
-<h2> ¡Hola! Soy Antonella Milla 👩🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+<h2>¡Hola! Soy Antonella Milla  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 
-<p><em>Egresada de Diseño y Desarrollo de Software en <a href="https://www.tecsup.edu.pe/">TECSUP</a> 🎓<br>
-Desarrolladora Frontend / Backend Junior 💻</em></p>
+<!-- 🖼️ IMAGEN DE PERFIL
+     Reemplaza el enlace de abajo por la imagen que quieras utilizar.
+-->
+
+<img align="right" src="AQUI_PONDRAS_TU_IMAGEN" width="230">
+
+<p><em>
+Egresada de Diseño y Desarrollo de Software en <a href="https://www.tecsup.edu.pe/">TECSUP</a> 🎓<br>
+Desarrolladora Frontend / Backend Junior 💻
+</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/-Antonella%20Milla-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/antonella-blanca-milla-aguirre-754134368/)
 [![GitHub](https://img.shields.io/github/followers/AntonellaMilla?label=seguir\&style=social)](https://github.com/AntonellaMilla)
 
-### 🌱 Un poco más sobre mí...
+### 🐈‍⬛ Un poco más sobre mí...
 
 ```javascript
 const antonella = {
@@ -17,8 +25,11 @@ const antonella = {
   baseDeDatos: ["PostgreSQL"],
   intereses: ["Desarrollo Web", "AWS", "IA"],
   aprendiendo: ["Full Stack", "Cloud"],
-  objetivo: "Seguir aprendiendo y convertir ideas en soluciones 🚀"
+  objetivo: "Seguir aprendiendo y convertir ideas en soluciones "
 };
 ```
 
-✨ <em><b>Me encanta aprender, crear y resolver problemas</b>. Siempre estoy buscando nuevos retos que me permitan seguir creciendo como desarrolladora.</em>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50">
+
+<em><b>Me encanta aprender, crear y resolver problemas.</b>
+Siempre estoy buscando nuevos retos para seguir creciendo como desarrolladora. </em>
