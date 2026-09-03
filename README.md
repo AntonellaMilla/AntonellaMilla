@@ -4,7 +4,7 @@
      Reemplaza el enlace de abajo por la imagen que quieras utilizar.
 -->
 
-<img align="right" src="canvs.png" width="230">
+<img align="right" src="./canvs.png" width="230">
 
 <p><em>
 Egresada de Diseño y Desarrollo de Software en <a href="https://www.tecsup.edu.pe/">TECSUP</a> 🎓<br>
